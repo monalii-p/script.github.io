@@ -1,0 +1,211 @@
+.home {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 440px;
+  min-height: 956px;
+  position: relative;
+}
+
+.home .background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 440px;
+  height: 956px;
+  aspect-ratio: 1.83;
+  object-fit: cover;
+}
+
+.home .text-wrapper {
+  position: absolute;
+  top: 47px;
+  left: 38px;
+  width: 115px;
+  font-family: "Gluten-Regular", Helvetica;
+  font-weight: 400;
+  color: #285079;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  white-space: nowrap;
+}
+
+.home .gg-profile {
+  position: absolute;
+  top: 47px;
+  left: 373px;
+  width: 35px;
+  height: 35px;
+  aspect-ratio: 1;
+}
+
+.home .search {
+  display: flex;
+  width: 395px;
+  height: 51px;
+  align-items: center;
+  gap: var(--size-space-200);
+  padding: var(--size-space-300) var(--size-space-400) var(--size-space-300)
+    var(--size-space-400);
+  position: absolute;
+  top: 193px;
+  left: 22px;
+  background-color: var(--color-background-default-default);
+  border-radius: var(--size-radius-full);
+  overflow: hidden;
+  border: 1px solid;
+  border-color: var(--color-border-default-default);
+}
+
+.home .value {
+  position: relative;
+  flex: 1;
+  font-family: var(--single-line-body-base-font-family);
+  font-weight: var(--single-line-body-base-font-weight);
+  color: var(--color-text-default-tertiary);
+  font-size: var(--single-line-body-base-font-size);
+  letter-spacing: var(--single-line-body-base-letter-spacing);
+  line-height: var(--single-line-body-base-line-height);
+  font-style: var(--single-line-body-base-font-style);
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+
+.home .img {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+
+.home .hello-monali-your {
+  position: absolute;
+  top: 103px;
+  left: 27px;
+  width: 290px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #285079;
+  font-size: 32px;
+  letter-spacing: 1.60px;
+  line-height: 32px;
+}
+
+.home .component {
+  top: 263px;
+  left: 27px;
+  position: absolute;
+  width: 197px;
+  height: 180px;
+}
+
+.home .rectangle {
+  width: 91.37%;
+  height: 100%;
+  top: 0;
+  background-color: #285079;
+  border-radius: 25px;
+  box-shadow: 0px 6px 4px #00000040;
+  position: absolute;
+  left: 0;
+}
+
+.home .div {
+  position: absolute;
+  width: 86.29%;
+  height: 20.00%;
+  top: 10.00%;
+  left: 13.71%;
+  font-family: "Inter-Black", Helvetica;
+  font-weight: 900;
+  color: #bff2f6;
+  font-size: 20px;
+  letter-spacing: 1.00px;
+  line-height: 20px;
+}
+
+.home .dashicons-text {
+  position: absolute;
+  width: 72.08%;
+  top: 36px;
+  left: 5.58%;
+  height: 142px;
+  aspect-ratio: 1;
+}
+
+.home .component-2 {
+  top: 478px;
+  left: 235px;
+  position: absolute;
+  width: 197px;
+  height: 180px;
+}
+
+.home .component-3 {
+  top: 693px;
+  left: 235px;
+  position: absolute;
+  width: 197px;
+  height: 180px;
+}
+
+.home .component-4 {
+  top: 693px;
+  left: 27px;
+  position: absolute;
+  width: 197px;
+  height: 180px;
+}
+
+.home .component-5 {
+  top: 263px;
+  left: 235px;
+  position: absolute;
+  width: 197px;
+  height: 180px;
+}
+
+.home .component-6 {
+  top: 478px;
+  left: 27px;
+  position: absolute;
+  width: 197px;
+  height: 180px;
+}
+
+.home .rectangle-2 {
+  top: 871px;
+  width: 440px;
+  height: 85px;
+  background-color: #285079bd;
+  border-radius: 30px 30px 0px 0px;
+  position: absolute;
+  left: 0;
+}
+
+.home .flat-color-icons {
+  position: absolute;
+  top: 878px;
+  left: 185px;
+  width: 70px;
+  height: 70px;
+  aspect-ratio: 1;
+}
+
+.home .weui-back-filled {
+  position: absolute;
+  top: 41px;
+  left: 11px;
+  width: 19px;
+  height: 38px;
+  aspect-ratio: 0.5;
+}
+
+.home .vector {
+  position: absolute;
+  width: 79.04%;
+  height: 70.71%;
+  top: 14.65%;
+  left: 7.74%;
+}
